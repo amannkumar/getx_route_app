@@ -4,7 +4,7 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a example of route management in Flutter.
+This project is a consist of a simple UI showing example of route management through GETX.
 
 The live Demo of the project is displayed 
 
